@@ -8,12 +8,9 @@ services:
     envVars:
       - key: BINGX_API_KEY
         sync: false
-        value: ""
       - key: BINGX_API_SECRET
         sync: false
-        value: ""
       - key: TRADE_MODE
         value: "live"
       - key: BINGX_GA
         sync: false
-        value: ""
